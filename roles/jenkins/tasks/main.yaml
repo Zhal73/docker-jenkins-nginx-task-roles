@@ -1,0 +1,7 @@
+- name: 'jenkins user'
+  user:
+    name: jenkins
+    comment: Jenkins Automation User
+    shell: /bin/bash
+- name: install jenkins from script
+  script: /home/gaglianodomenico/projects/docker-nginx-task/jenkins.sh

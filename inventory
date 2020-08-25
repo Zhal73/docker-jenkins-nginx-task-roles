@@ -1,0 +1,11 @@
+[docker]
+asible-exercise-vm1-docker
+asible-exercise-vm3-docker-ngnix
+
+[nginx]
+asible-exercise-vm2-nginx
+asible-exercise-vm3-docker-ngnix
+
+[jenkins]
+asible-exercise-vm2-nginx
+
